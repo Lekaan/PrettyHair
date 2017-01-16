@@ -1,1 +1,2 @@
 C:\Users\casp4\Desktop\PrettyHair-master\PrettyHair\bin\Debug\PrettyHair.exe.config
+C:\Users\kaans\Google Drev\Skole\Programming\Pretty hair\PrettyHair v2\PrettyHair\bin\Debug\PrettyHair.exe.config

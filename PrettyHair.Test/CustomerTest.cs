@@ -15,6 +15,8 @@ namespace PrettyHair.Test
         ICustomer ulla = new Customer("", "");
         ICustomer karl = new Customer("", "");
 
+        //this is a test
+
         [TestMethod]
         public void EmptyRepo()
         {
